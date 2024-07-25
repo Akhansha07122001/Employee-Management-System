@@ -17,4 +17,4 @@ email : anil@gmail.com
 password : 123654
 
 ## Project Brief
-Here the admin can create a profile of its own and login to the index.php page to add a new employee,update a employee record or he or she can delete the record of the employee if wanted. I designed it all with bootstrap 5.3 the lastest version as of now(in 2024). I have used bootstrap to make the page responsive.
+Here the admin can create a profile of its own and login to the index.php page to add a new employee,update a employee record or he or she can delete the record of the employee if wanted. I designed it all with bootstrap 5.3 the latest version as of now(in 2024). I have used bootstrap to make the page responsive.
